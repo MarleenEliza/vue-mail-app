@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "sender": "aaa@example.com",
+    "recipants": [
+      "bbb@example.com",
+      "ccc@example.com",
+      "ddd@example.com",
+      "eee@example.com"
+    ],
+    "date": "2019-11-16T00:00:00.000Z",
+    "subject": "About deploy of 22/3",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "attachment": "mockAttachment"
+  },
+  {
+    "id": 2,
+    "sender": "yyy@example.com",
+    "recipants": ["ccc@example.com"],
+    "date": "2021-11-16T00:00:00.000Z",
+    "subject": "About deploy of 22/3",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  },
+  {
+    "id": 3,
+    "sender": "zzz@example.com",
+    "recipants": ["ppp@example.com", "mmm@example.com", "aaa@example.com"],
+    "date": "2022-02-12T00:00:00.000Z",
+    "subject": "About deploy of 22/3",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  },
+  {
+    "id": 4,
+    "sender": "ooo@example.com",
+    "recipants": ["bbb@example.com", "vvv@example.com"],
+    "date": "2022-02-13T12:12:00.000Z",
+    "subject": "About deploy of 22/3",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  },
+  {
+    "id": 5,
+    "sender": "xxx@example.com",
+    "recipants": ["www@example.com", "vvv@example.com"],
+    "date": "2022-01-12T03:10:00.000Z",
+    "subject": "About deploy of 22/3",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  },
+  {
+    "id": 6,
+    "sender": "dddd.ttttt.eeee@example.com",
+    "recipants": [
+      "ddd@example.com",
+      "aaa@example.com",
+      "www@example.com",
+      "eee@example.com"
+    ],
+    "date": "2022-02-13T12:12:00.000Z",
+    "subject": "テストメール",
+    "content": "テスト",
+    "attachment": 9870
+  },
+  {
+    "id": 7,
+    "sender": "marleen.dijkman@example.com",
+    "recipants": ["future.employer@example.com"],
+    "date": "2022-02-13T15:12:20.000Z",
+    "subject": "Thank you",
+    "content": "I hope this e-mail finds you well.",
+    "attachment": "mockAttachment"
+  },
+  {
+    "id": 8,
+    "sender": "ooo@example.com",
+    "recipants": ["ccc@example.com", "lll@example.com"],
+    "date": "2022-02-13T12:12:00.000Z",
+    "subject": "About deploy of 22/3",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  },
+  {
+    "id": 9,
+    "sender": "dddd.ttttt.ee2e@example.com",
+    "recipants": ["bbb@example.com", "mmm@example.com"],
+    "date": "2022-02-13T12:12:00.000Z",
+    "subject": "Dummy subject",
+    "content": "empty mail"
+  },
+  {
+    "id": 10,
+    "sender": "dddd.ttttt.ee2e@example.com",
+    "recipants": ["bbb@example.com", "mmm@example.com"],
+    "date": "2022-02-13T12:12:00.000Z",
+    "subject": "Dummy subject",
+    "content": "empty mail"
+  },
+  {
+    "id": 11,
+    "sender": "dddd.ttttt.ee2e@example.com",
+    "recipants": ["bbb@example.com", "mmm@example.com"],
+    "date": "2022-02-13T12:12:00.000Z",
+    "subject": "Dummy subject",
+    "content": "empty mail"
+  },
+  {
+    "id": 12,
+    "sender": "dddd.ttttt.ee2e@example.com",
+    "recipants": ["bbb@example.com", "mmm@example.com"],
+    "date": "2022-02-13T12:12:00.000Z",
+    "subject": "Dummy subject",
+    "content": "empty mail"
+  },
+  {
+    "id": 13,
+    "sender": "dddd.ttttt.ee2e@example.com",
+    "recipants": ["bbb@example.com", "mmm@example.com"],
+    "date": "2022-02-13T12:12:00.000Z",
+    "subject": "Dummy subject",
+    "content": "empty mail"
+  }
+]

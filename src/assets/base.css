@@ -1,0 +1,81 @@
+/* semantic color variables for this project */
+:root {
+  --color-text: #3a3042;
+  --color-main: #1dd3b0;
+  --color-secondary: #efefef;
+  --color-separator: #afafaf;
+  --color-hover: #22bb9c72;
+  --color-highlight: #555258;
+  --color-error: #c32737;
+
+  --padding-default: 0.7rem 1rem;
+  --padding-slim: 0.5rem 0.7rem;
+  --padding-horizontal: 0 1rem;
+
+  --gap-inner-grid: 0.2rem;
+  --gap-inner-grid-large: 1rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+body {
+  padding-top: 1rem;
+  min-height: 100vh;
+  color: var(--color-text);
+  line-height: 1.6;
+  font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@media (min-width: 800px) {
+  body {
+    padding: 2rem 3rem;
+  }
+}
+
+main {
+  display: grid;
+  min-width: 230px;
+  gap: var(--gap-inner-grid-large);
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  padding: 0;
+}
+
+ul {
+  padding: 0;
+}
+
+strong {
+  font-weight: bold;
+}
+input {
+  border: none;
+}
+
+.icon {
+  width: 20px;
+  height: 17px;
+}
+.icon.s {
+  width: 10px;
+  height: 10px;
+}
+.icon.xs {
+  width: 8px;
+  height: 8px;
+}
